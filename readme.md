@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## My App in Laravel is for training purposes
+## My simple App in Laravel
 
 ## About Laravel
 
